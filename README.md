@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Catruna Marius
-- 👀 I’m interested in Front-End Web Developers and Designer 
+- 👀 I’m interested in Web Developers and Designer 
 - 🌱 I’m currently learning ReactJS and UX/UI
 
 - 📫 How to reach me catruna.marius.robert@gmail.com
