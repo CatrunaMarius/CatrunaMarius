@@ -1,4 +1,4 @@
- # Hi I'm Catruna Marius  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
+ # Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />, I'm Catruna Marius 
   I’m Marius from Romania and I like to do Design , Development and also  I'm an tehnologi enthusiasm  . I really enjoy learning languages and framworks like React and Tensorflow. Also enjoy wireframing, ui, ux and design in general. 
 
 
@@ -25,6 +25,7 @@
 - [Secrets](https://github.com/CatrunaMarius/Secrets)
 - [Blog](https://github.com/CatrunaMarius/Blog)
 - [TinDog](https://github.com/CatrunaMarius/TinDog)
+
 # My GitHub Status 
 <a href="https://github.com/CatrunaMarius/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CatrunaMarius&show_icons=true&include_all_commits=true&theme=material-palenight" alt="CatrunaMarius's github stats" />
