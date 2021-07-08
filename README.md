@@ -44,8 +44,12 @@
 
 
 # Contact Me
- 📫 How to reach me catruna.marius.robert@gmail.com
+ <img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" /> catruna.marius.robert@gmail.com
+ 
+[<img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/catruna-marius-robert-a7088ba7)
+[<img height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codesandbox-4096.png" />](https://codesandbox.io/dashboard/home?workspace=dddbe9ca-0a2f-4b89-ad50-f966f6efedd8)
 
+<iconify-icon data-icon="simple-icons:codesandbox"></iconify-icon>
 <!---
 CatrunaMarius/CatrunaMarius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
