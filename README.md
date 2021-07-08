@@ -1,15 +1,10 @@
- # Hi I'm Catruna Marius  
-  I’m Marius from Romania and I like to do Design , Development and to . I really enjoy learning languages and framworks like React and Tensorflow. Also enjoy wireframing, ui, ux and design in general. 
+ # Hi I'm Catruna Marius  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
+  I’m Marius from Romania and I like to do Design , Development and also  I'm an tehnologi enthusiasm  . I really enjoy learning languages and framworks like React and Tensorflow. Also enjoy wireframing, ui, ux and design in general. 
 
 
 # Languages and Tools  
 
-<!-- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>  
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code> 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ode/VisualStudioCode.png"></code>  -->
+
 
 <img height="50"  src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain-wordmark.svg" /><img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" />
 <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" />
