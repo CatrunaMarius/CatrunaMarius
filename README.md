@@ -20,22 +20,31 @@
 
 # Projects
 
-<a href="https://github.com/CatrunaMarius/Nexter" ><img align="left" alt="Nexter" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/nexter.gif" /> </a>
+<a href="https://github.com/CatrunaMarius/Nexter" ><img align="left" alt="Nexter" height="300" width="450" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/nexter.gif" />
+</a>
 
 <a href="https://github.com/CatrunaMarius/Trillo" >
-<img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/trillo.gif" />
+<img align="left" alt="Trillo" height="300" width="450" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/trillo.gif" />
 </a>
+
+<br>
 
 <a href="https://github.com/CatrunaMarius/Natours">
-<img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/natours.gif" /></a><a href="https://github.com/CatrunaMarius/e-shopping"><img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/e-Shopping.gif" /></a><a href="https://github.com/CatrunaMarius/Secrets"><img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/Secrets.gif" /></a>
+<img align="left" alt="Trillo" height="300" width="450" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/natours.gif" />
+</a>
+
+<a href="https://github.com/CatrunaMarius/e-shopping">
+ <img align="left" alt="Trillo" height="300" width="450" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/e-Shopping.gif" />
+</a>
+
+<a href="https://github.com/CatrunaMarius/Secrets">
+ <img align="left" alt="Trillo" height="300" width="450" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/Secrets.gif" />
+</a>
 
 <a href="https://github.com/CatrunaMarius/TinDog">
- <img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/TinDog.gif" />
+ <img align="left" alt="Trillo" height="300" width="450" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/TinDog.gif" />
 <a>
 
-<a href="https://github.com/CatrunaMarius/e-shopping"> 
-<img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/e-Shopping.gif" />
-</a>
  
  
 
