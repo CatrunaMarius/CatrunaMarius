@@ -21,14 +21,14 @@
 # Projects
 
 <a href="https://github.com/CatrunaMarius/Nexter" ><img align="center" alt="Nexter" height="300" width="400" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/nexter.gif" />
-</a><a href="https://github.com/CatrunaMarius/Trillo" >
+</a>  &nbsp;  &nbsp;   <a href="https://github.com/CatrunaMarius/Trillo" >
 <img align="center" alt="Trillo" height="300" width="400" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/trillo.gif" />
 </a>
 
 <br>
 
 <a href="https://github.com/CatrunaMarius/Natours"><img align="center" alt="Trillo" height="300" width="400" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/natours.gif" />
-</a><a href="https://github.com/CatrunaMarius/e-shopping">
+</a> &nbsp; &nbsp; <a href="https://github.com/CatrunaMarius/e-shopping">
 <img align="center" alt="Trillo" height="300" width="400" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/e-Shopping.gif" />
 </a>
 
@@ -36,7 +36,7 @@
 
 <a href="https://github.com/CatrunaMarius/Secrets">
 <img align="center" alt="Trillo" height="300" width="400" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/Secrets.gif" />
-</a><a href="https://github.com/CatrunaMarius/TinDog">
+</a> &nbsp; &nbsp; <a href="https://github.com/CatrunaMarius/TinDog">
 <img align="center" alt="Trillo" height="300" width="400" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/TinDog.gif" />
 <a>
 
