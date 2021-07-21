@@ -36,6 +36,8 @@
 <a href="https://github.com/CatrunaMarius/e-shopping"> 
 <img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/e-Shopping.gif" />
 </a>
+ 
+ 
 
 # My GitHub Status 
 <a href="https://github.com/CatrunaMarius/github-readme-stats">
