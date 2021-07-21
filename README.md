@@ -20,18 +20,29 @@
 
 # Projects
 
-<a href="https://github.com/CatrunaMarius/Nexter" ><img align="left" alt="Nexter" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/nexter.gif" /> > Nexter </a>
+<a href="https://github.com/CatrunaMarius/Nexter" ><img align="left" alt="Nexter" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/nexter.gif" /> </a>
+
+<a href="https://github.com/CatrunaMarius/Trillo" >
 <img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/trillo.gif" />
-- [Trillo](https://github.com/CatrunaMarius/Trillo)
+</a>
+
+<a href="https://github.com/CatrunaMarius/Natours"
 <img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/natours.gif" />
-- [Natours](https://github.com/CatrunaMarius/Natours)
+</a>
+<a href="https://github.com/CatrunaMarius/e-shopping"> 
+<img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/e-Shopping.gif" />
+</a>
+<a href="https://github.com/CatrunaMarius/Secrets">
 <img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/Secrets.gif" />
-- [Secrets](https://github.com/CatrunaMarius/Secrets)
-- [Blog](https://github.com/CatrunaMarius/Blog)
-- <img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/TinDog.gif" />
-- [TinDog](https://github.com/CatrunaMarius/TinDog)
-- <img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/e-Shopping.gif" />
-- [e-Shopping](https://github.com/CatrunaMarius/e-shopping)
+</a>
+
+<a href="https://github.com/CatrunaMarius/TinDog">
+ <img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/TinDog.gif" />
+<a>
+
+<a href="https://github.com/CatrunaMarius/e-shopping"> 
+<img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/e-Shopping.gif" />
+</a>
 
 # My GitHub Status 
 <a href="https://github.com/CatrunaMarius/github-readme-stats">
