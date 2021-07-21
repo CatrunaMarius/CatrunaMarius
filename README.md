@@ -57,9 +57,8 @@
 
 
 # Contact Me
- <img height="20" width="20" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" /> catruna.marius.robert@gmail.com
- 
-[<img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/catruna-marius-robert-a7088ba7)
+<a href="mailto:catruna.marius.robert@gmail.com"> <img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" /> </a> &nbsp;
+[<img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/catruna-marius-robert-a7088ba7) &nbsp;
 [<img height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codesandbox-4096.png" />](https://codesandbox.io/u/catruna.marius.robert)
 
 <iconify-icon data-icon="simple-icons:codesandbox"></iconify-icon>
