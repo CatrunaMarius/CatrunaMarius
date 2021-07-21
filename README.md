@@ -19,12 +19,19 @@
 
 
 # Projects
-- [Nexter](https://github.com/CatrunaMarius/Nexter)
+
+[<img align="left" alt="Nexter" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/nexter.gif" />]
+[Nexter](https://github.com/CatrunaMarius/Nexter)
+<img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/trillo.gif" />
 - [Trillo](https://github.com/CatrunaMarius/Trillo)
+<img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/natours.gif" />
 - [Natours](https://github.com/CatrunaMarius/Natours)
+<img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/Secrets.gif" />
 - [Secrets](https://github.com/CatrunaMarius/Secrets)
 - [Blog](https://github.com/CatrunaMarius/Blog)
+- <img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/TinDog.gif" />
 - [TinDog](https://github.com/CatrunaMarius/TinDog)
+- <img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/e-Shopping.gif" />
 - [e-Shopping](https://github.com/CatrunaMarius/e-shopping)
 
 # My GitHub Status 
