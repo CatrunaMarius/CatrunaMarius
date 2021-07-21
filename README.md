@@ -20,7 +20,7 @@
 
 # Projects
 
-<a ><img align="left" alt="Nexter" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/nexter.gif" /> >[Nexter](https://github.com/CatrunaMarius/Nexter) </a>
+<a href="https://github.com/CatrunaMarius/Nexter" ><img align="left" alt="Nexter" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/nexter.gif" /> > Nexter </a>
 <img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/trillo.gif" />
 - [Trillo](https://github.com/CatrunaMarius/Trillo)
 <img align="left" alt="Trillo" height="300" width="480" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/natours.gif" />
