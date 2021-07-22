@@ -1,5 +1,5 @@
  # Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />, I'm Catruna Marius 
-  I’m Marius from Romania and I like to do Design , Development and also  I'm an tehnologi enthusiasm  . I really enjoy learning languages and framworks like React and Tensorflow. Also enjoy wireframing, ui, ux and design in general. 
+  I’m Marius from Romania and I like to do Design , Development and also  I'm an tehnologi enthusiasm  . I really enjoy learning languages and framworks like React and Tensorflow. Also enjoy wireframing, ui, ux and design in general.
 
 
 # Languages and Tools  
@@ -20,40 +20,47 @@
 
 # Projects
 
+<div align="center">
 <a href="https://github.com/CatrunaMarius/Nexter" ><img align="center" alt="Nexter" height="300" width="400" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/nexter.gif" />
 </a>  &nbsp;  &nbsp;   <a href="https://github.com/CatrunaMarius/Trillo" >
 <img align="center" alt="Trillo" height="300" width="400" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/trillo.gif" />
 </a>
+</div>
 
 <br>
 
+<div align="center">
 <a href="https://github.com/CatrunaMarius/Natours"><img align="center" alt="Trillo" height="300" width="400" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/natours.gif" />
 </a> &nbsp; &nbsp; <a href="https://github.com/CatrunaMarius/e-shopping">
 <img align="center" alt="Trillo" height="300" width="400" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/e-Shopping.gif" />
 </a>
+</div>
+
 
 <br>
 
+<details align="center">
+ <summary> More projects </summary>
+ <br>
 <a href="https://github.com/CatrunaMarius/Secrets">
-<img align="center" alt="Trillo" height="300" width="400" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/Secrets.gif" />
+<img align="center" alt="Trillo" name="Trillo" height="300" width="400" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/Secrets.gif" />
 </a> &nbsp; &nbsp; <a href="https://github.com/CatrunaMarius/TinDog">
 <img align="center" alt="Trillo" height="300" width="400" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/TinDog.gif" />
 <a>
-
+</details>
  
  
 
 # My GitHub Status 
-<a href="https://github.com/CatrunaMarius/github-readme-stats">
+
+<div align="center"> 
+<a href="https://github.com/CatrunaMarius/github-readme-stats" >
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CatrunaMarius&show_icons=true&include_all_commits=true&theme=material-palenight" alt="CatrunaMarius's github stats" />
   
 </a>
+</div>
 
 
-<a href="https://github.com/CatrunaMarius/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" height="196" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CatrunaMarius&layout=compact&theme=material-palenight" />
-</a>
 
 
 # Contact Me
