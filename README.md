@@ -21,19 +21,36 @@
 # Projects
 
 <div align="center">
-<a href="https://github.com/CatrunaMarius/Nexter" ><img align="center" alt="Nexter" height="300" width="400" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/nexter.gif" />
-</a>  &nbsp;  &nbsp;   <a href="https://github.com/CatrunaMarius/Trillo" >
+<p><a href="https://github.com/CatrunaMarius/Nexter" ><img align="center" alt="Nexter" height="300" width="400" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/nexter.gif" /> 
+ </a>
+ 
+ <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+ <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+ 
+ </p>  &nbsp;  &nbsp;  <p> <a href="https://github.com/CatrunaMarius/Trillo" >
 <img align="center" alt="Trillo" height="300" width="400" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/trillo.gif" />
-</a>
+ </a>
+  
+ <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+ <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+ </p>
 </div>
 
 <br>
 
 <div align="center">
-<a href="https://github.com/CatrunaMarius/Natours"><img align="center" alt="Trillo" height="300" width="400" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/natours.gif" />
-</a> &nbsp; &nbsp; <a href="https://github.com/CatrunaMarius/e-shopping">
+  <a href="https://github.com/CatrunaMarius/Natours"><img align="center" alt="Trillo" height="300" width="400" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/natours.gif" /> 
+   
+ <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+ <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+   
+ </a>  &nbsp; &nbsp;  <a href="https://github.com/CatrunaMarius/e-shopping">
 <img align="center" alt="Trillo" height="300" width="400" src="https://github.com/CatrunaMarius/CatrunaMarius/blob/main/e-Shopping.gif" />
-</a>
+
+ <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+ <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+ <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+ </a>
 </div>
 
 
@@ -49,7 +66,7 @@
 <a>
 </details>
  
- 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=CatrunaMarius.CatrunaMarius)
 
 # My GitHub Status 
 
