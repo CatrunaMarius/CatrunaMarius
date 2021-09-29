@@ -342,22 +342,6 @@ h2 {
 </foreignObject>
 </svg>
 
-<script src='http://code.jquery.com/jquery-1.4.2.min.js' ></script>
-<script type="text/javascript">
-  <img src="https://latex.codecogs.com/gif.latex?(function()%20{
-%20%20%20%20%20%20var%20b%20="/>("#button");
-      var w = <img src="https://latex.codecogs.com/gif.latex?(&quot;#wrapper&quot;);
-%20%20%20%20%20%20var%20l%20="/>("#list");
-      b.click(function() {
-        if (w.hasClass('open')) {
-          w.removeClass('open');
-          w.height(0);
-        } else {
-          w.addClass('open');
-          w.height(l.outerHeight(true));
-        }
-      });
-    });
-</script>
-</foreignObject>
+
+
 <!-- </svg>   -->
