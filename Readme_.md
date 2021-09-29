@@ -1,5 +1,4 @@
-<!-- <svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg"> -->
-<html5>
+<svg fill="none"  width="80vw" height="4000" xmlns="http://www.w3.org/2000/svg">
 
 <foreignObject width="100%" height="100%">
   <div xmlns="http://www.w3.org/1999/xhtml">
@@ -167,7 +166,6 @@ h2 {
 </style>  
 
 <div class="container">
-  
 <h2 class="pro">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />, </h2>
 <div class="intro">
   <div class ="intro-box">
@@ -342,7 +340,7 @@ h2 {
 
 </div>
 </foreignObject>
-</html5>
+</svg>
 
 <script src='http://code.jquery.com/jquery-1.4.2.min.js' ></script>
 <script type="text/javascript">
