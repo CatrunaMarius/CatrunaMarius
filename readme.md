@@ -1,109 +1,76 @@
 
 <foreignObject width="100%" height="100%">
-
+  <styles>
+    .intro-box {
+      display: flex;
+    }
+  </styles>
 <div class="container">
 
 <h2 class="pro">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />, </h2>
 <div class="intro">
   
   <div class ="intro-box">
-    
-      <h3 align="left" height="400px" width="400px" >I’m Marius from Romania I'm an tehnologi enthusiasm  I like to coding and website design . I really enjoy learning languages and framworks like React and Angular. Also enjoy wireframing, ui, ux and design in general.</h3>
-    
-      <img src="./Asset 16.svg" alt="my image" align="right" height="400px" width="400px" />
-    
+    <div class="intro-text" >
+      <h3>I’m Marius from Romania I'm an tehnologi enthusiasm  I like to coding and website design . I really enjoy learning languages and framworks like React and Angular. Also enjoy wireframing, ui, ux and design in general.</h3>
+    </div>
+    <div class="intro-animate">
+      <img src="./Asset 16.svg" alt="my image" height="320" width="320" />
+    </div>
+  </div>
 </div>
 
 <h2 class="pro">Languages and Tools</h2>
-<div class="language">
-
-  <div
-  data-image="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg"
-  data-encode="fals"
->
+<div class="language" align="center">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg"
     alt="html5"
     class="images"
+    height="52" width="52"
   />
-</div>
-
-<div
-  data-image="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg"
-  data-encode="fals"
->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg"
     alt="css3"
     class="images"
+       height="52" width="52"
   />
-</div>
-
-<div
-  data-image="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg"
-  data-encode="fals"
->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg"
     alt="javascript"
     class="images"
+    height="52" width="52"
   />
-</div>
-
-<div
-  data-image="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg"
-  data-encode="fals"
->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg"
     alt="Sass"
     class="images"
+    height="52" width="52"
   />
-</div>
-
-<div
-  data-image="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original-wordmark.svg"
-  data-encode="fals"
->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original-wordmark.svg"
     alt="React"
     class="images"
+    height="52" width="52"
   />
-</div>
-
-<div
-  data-image="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original-wordmark.svg"
-  data-encode="fals"
->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original-wordmark.svg"
     alt="express"
     class="images"
+    height="52" width="52"
   />
-</div>
-
-<div
-  data-image="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original-wordmark.svg"
-  data-encode="fals"
->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original-wordmark.svg"
     alt="mongodb"
     class="images"
+    height="52" width="52"
   />
-</div>
-
-<div
-  data-image="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg"
-  data-encode="fals"
->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg"
     alt="npm"
     class="images"
+    height="52" width="52"
   />
-</div>
+
 </div>
 <h2 class="pro">Projects</h2>
   
@@ -168,10 +135,10 @@
      </div>
   </div>
   <h2 class="pro">Contac Me</h2>
-  <div class = "contact">
-    <a href="mailto:catruna.marius.robert@gmail.com"> <img class="images" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" /> </a>
-    <a href="https://www.linkedin.com/in/catruna-marius-robert-a7088ba7"> <img class="images" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /> </a>
-    <a href="https://codesandbox.io/u/catruna.marius.robert"> <img class="images" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codesandbox-4096.png" /> </a>
+  <div class = "contact" align="center">
+    <a href="mailto:catruna.marius.robert@gmail.com"> <img height="52" width="52" class="images" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" /> </a>
+    <a href="https://www.linkedin.com/in/catruna-marius-robert-a7088ba7"> <img height="52" width="52" class="images" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /> </a>
+    <a href="https://codesandbox.io/u/catruna.marius.robert"> <img height="52" width="52" class="images" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codesandbox-4096.png" /> </a>
   </div>
 </div>
  
