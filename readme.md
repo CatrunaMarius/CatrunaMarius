@@ -8,10 +8,10 @@
   
   <div class ="intro-box">
     <div class="intro-text" align="left">
-      <h3>I’m Marius from Romania I'm an tehnologi enthusiasm  I like to coding and website design . I really enjoy learning languages and framworks like React and Angular. Also enjoy wireframing, ui, ux and design in general.</h3>
+      <h3 align="left">I’m Marius from Romania I'm an tehnologi enthusiasm  I like to coding and website design . I really enjoy learning languages and framworks like React and Angular. Also enjoy wireframing, ui, ux and design in general.</h3>
     </div>
     <div class="intro-animate" align="right">
-      <img src="./Asset 16.svg" alt="my image" />
+      <img src="./Asset 16.svg" alt="my image" align="right"/>
     </div>
   </div>
 </div>
