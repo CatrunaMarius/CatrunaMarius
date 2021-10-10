@@ -79,10 +79,10 @@
 
 <h2 class="pro">Projects</h2>
       <div float="left">
-          <script>
-function ClickRepsonse(){
-alert ("clicked the image");
-}
+         ''' javascript <script>
+            function ClickRepsonse(){
+                alert ("clicked the image");
+} ''' 
 </script>
 
 <img src="nexter.gif"  height="320" width="400" onClick="ClickRepsonse()" />
