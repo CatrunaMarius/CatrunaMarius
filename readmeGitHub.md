@@ -77,12 +77,18 @@
 <br>
 <br>
 
+<div id="text"></div>
+ 
+<script>
+document.getElementById("text").innerHTML = "Text added by JavaScript code";
+</script>
+
 <h2 class="pro">Projects</h2>
       <div float="left">
-         ''' javascript <script>
-            function ClickRepsonse(){
-                alert ("clicked the image");
-} ''' 
+          <script>
+function ClickRepsonse(){
+alert ("clicked the image");
+}
 </script>
 
 <img src="nexter.gif"  height="320" width="400" onClick="ClickRepsonse()" />
