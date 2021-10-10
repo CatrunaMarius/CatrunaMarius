@@ -77,34 +77,30 @@
 <br>
 <br>
 
-<div id="text"></div>
- 
-<script>
-document.getElementById("text").innerHTML = "Text added by JavaScript code";
-</script>
-
 <h2 class="pro">Projects</h2>
       <div float="left">
-          <script>
-function ClickRepsonse(){
-alert ("clicked the image");
-}
-</script>
-
-<img src="nexter.gif"  height="320" width="400" onClick="ClickRepsonse()" />
-           
-
-<map name="image-map">
-    <area target="_self" alt="index" title="index" href="https://github.com/CatrunaMarius/Nexter" coords="84,35,214,71" shape="rect">
-</map>
-            <!-- <a href="https://github.com/CatrunaMarius/Nexter"> -->
-            <!-- <img class="gif" src="nexter.gif"  height="320" width="400"> -->
-            <!-- <img class="gif" src="natours.gif"  height="320" width="400"> -->
-            <!-- <button width="400">Natours<button>
+            <a href="https://catrunamarius.github.io/Nexter/">
+            <img class="gif" src="nexter.gif" alt="Nexter"  height="320" width="400">
+            </a>
+            <a href="https://catrunamarius.github.io/Natours/">
+            <img class="gif" src="natours.gif"  height="320" width="400">
+            </a>
+            <a href="https://catrunamarius.github.io/Trillo/">
             <img class="gif" src="trillo.gif"  height="320" width="400">
+            </a>
+            <a href="https://e-shopping-react.herokuapp.com/">
             <img class="gif" src="e-Shopping.gif" height="320" width="400">
+            </a>
+            <details >
+              <summary> More projects </summary>
+              <br>
+            <a href="https://secretsnodejs.herokuapp.com/">
             <img class="gif" src="Secrets.gif"  height="320" width="400">
-            <img class="gif" src="TinDog.gif"  height="320" width="400"> -->
+            </a>
+            <a href="https://catrunamarius.github.io/TinDog/">
+            <img class="gif" src="TinDog.gif"  height="320" width="400">
+            </a>
+            </details>
       </div>   
   <h2 class="pro">Contac Me</h2>
   <div class = "contact">
@@ -115,23 +111,4 @@ alert ("clicked the image");
 </div>
  
 
-
-<script src='http://code.jquery.com/jquery-1.4.2.min.js' ></script>
-<script type="text/javascript">
-document.getElementsByClass('pro').style.backgroundColor = 'RED';
-  $(function() {
-      var b = $("#button");
-      var w = $("#wrapper");
-      var l = $("#list");
-      b.click(function() {
-        if (w.hasClass('open')) {
-          w.removeClass('open');
-          w.height(0);
-        } else {
-          w.addClass('open');
-          w.height(l.outerHeight(true));
-        }
-      });
-    });
-</script>
 </foreignObject>
